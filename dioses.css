@@ -1,0 +1,269 @@
+h1{ background-color: #010e49;
+    color:hsl(0, 0%, 97%);
+    border:solid;
+    border-radius: 20px;
+    border-color: black;
+    border-style: ridge;
+    border-width: 10px;
+    text-align: center;
+    font-size:45px;
+    }
+
+    *{
+        padding:0px;
+        margin:1px;
+    }
+    #header{
+            margin: auto;
+            width: 600px;
+    }
+    ul, ol{
+        list-style:none;
+    }
+    .nav li a{
+        background-color: #000;
+        color:#ffffff;
+        text-decoration: none;
+        padding: 10px 20px;
+        display:block;
+    }
+    .nav > li{
+        float: left;
+    }
+    .nav li a:hover{
+        background-color: #696666;
+    }
+    P{
+        color: #000;
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h1{ background-color: #010e49;
+        color:hsl(0, 0%, 97%);
+        border:solid;
+        border-radius: 20px;
+        border-color: black;
+        border-style: ridge;
+        border-width: 10px;
+        text-align: center;
+        font-size:45px;
+        }
+    
+        *{
+            padding:0px;
+            margin:1px;
+        }
+        #header{
+                margin: auto;
+                width: 550px;
+        }
+        ul, ol{
+            list-style:none;
+        }
+        .nav li a{
+            background-color: #000;
+            color:#ffffff;
+            text-decoration: none;
+            padding: 10px 20px;
+            display:block;
+        }
+        .nav > li{
+            float: left;
+        }
+        .nav li a:hover{
+            background-color: #696666;
+        }
+         
+
+  
+             h3{ background-color: #CD5C5C;
+                color:hsl(0, 0%, 97%);
+                border:solid;
+                border-radius: 20px;
+                border-color: black;
+                border-style: ridge;
+                border-width: 10px;
+                text-align: center;
+                font-size:45px;
+                }
+            
+                *{
+                    padding:0px;
+                    margin:1px;
+                }
+                #header{
+                        margin: auto;
+                        width: 550px;
+                }
+                ul, ol{
+                    list-style:none;
+                }
+                .nav li a{
+                    background-color: #000;
+                    color:#ffffff;
+                    text-decoration: none;
+                    padding: 10px 20px;
+                    display:block;
+                }
+                .nav > li{
+                    float: left;
+                }
+                .nav li a:hover{
+                    background-color: #696666;
+                }
+
+
+
+                
+                h4{ background-color: #154360;
+                    color:hsl(0, 0%, 97%);
+                    border:solid;
+                    border-radius: 20px;
+                    border-color: black;
+                    border-style: ridge;
+                    border-width: 10px;
+                    text-align: center;
+                    font-size:45px;
+                    }
+                
+                    *{
+                        padding:0px;
+                        margin:1px;
+                    }
+                    #header{
+                            margin: auto;
+                            width: 550px;
+                    }
+                    ul, ol{
+                        list-style:none;
+                    }
+                    .nav li a{
+                        background-color: #000;
+                        color:#ffffff;
+                        text-decoration: none;
+                        padding: 10px 20px;
+                        display:block;
+                    }
+                    .nav > li{
+                        float: left;
+                    }
+                    .nav li a:hover{
+                        background-color: #696666;
+                    }
+
+
+
+                    h5{ background-color:#1a5276;
+                        color:hsl(0, 0%, 97%);
+                        border:solid;
+                        border-radius: 20px;
+                        border-color: black;
+                        border-style: ridge;
+                        border-width: 10px;
+                        text-align: center;
+                        font-size:45px;
+                        }
+                    
+                        *{
+                            padding:0px;
+                            margin:1px;
+                        }
+                        #header{
+                                margin: auto;
+                                width: 550px;
+                        }
+                        ul, ol{
+                            list-style:none;
+                        }
+                        .nav li a{
+                            background-color: #000;
+                            color:#ffffff;
+                            text-decoration: none;
+                            padding: 10px 20px;
+                            display:block;
+                        }
+                        .nav > li{
+                            float: left;
+                        }
+                        .nav li a:hover{
+                            background-color: #696666;
+                        }
+
+
+
+
+
+                        h6{ background-color:#800070;
+                            color:hsl(0, 0%, 97%);
+                            border:solid;
+                            border-radius: 20px;
+                            border-color: black;
+                            border-style: ridge;
+                            border-width: 10px;
+                            text-align: center;
+                            font-size:45px;
+                            }
+                        
+                            *{
+                                padding:0px;
+                                margin:1px;
+                            }
+                            #header{
+                                    margin: auto;
+                                    width: 550px;
+                            }
+                            ul, ol{
+                                list-style:none;
+                            }
+                            .nav li a{
+                                background-color: #000;
+                                color:#ffffff;
+                                text-decoration: none;
+                                padding: 10px 20px;
+                                display:block;
+                            }
+                            .nav > li{
+                                float: left;
+                            }
+                            .nav li a:hover{
+                                background-color: #696666;
+                            }
+
+
+
+                            h2{ background-color:#b03a2e;
+                                color:hsl(0, 0%, 97%);
+                                border:solid;
+                                border-radius: 20px;
+                                border-color: black;
+                                border-style: ridge;
+                                border-width: 10px;
+                                text-align: center;
+                                font-size:45px;
+                                }
+                            
+                                *{
+                                    padding:0px;
+                                    margin:1px;
+                                }
+                                #header{
+                                        margin: auto;
+                                        width: 550px;
+                                }
+                                ul, ol{
+                                    list-style:none;
+                                }
+                                .nav li a{
+                                    background-color: #000;
+                                    color:#ffffff;
+                                    text-decoration: none;
+                                    padding: 10px 20px;
+                                    display:block;
+                                }
+                                .nav > li{
+                                    float: left;
+                                }
+                                .nav li a:hover{
+                                    background-color: #696666;
+                                }
